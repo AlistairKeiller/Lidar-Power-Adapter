@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.8*%
+%TF.CreationDate,2025-02-10T19:39:04-08:00*%
+%TF.ProjectId,Lidar Power Adapter,4c696461-7220-4506-9f77-657220416461,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.8) date 2025-02-10 19:39:04*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X131000000Y-61000000D02*
+X166500000Y-61000000D01*
+X166500000Y-85500000D01*
+X131000000Y-85500000D01*
+X131000000Y-61000000D01*
+M02*
